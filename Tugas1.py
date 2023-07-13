@@ -13,6 +13,5 @@ def tarifParkir():
     else :
         keluar < masuk and keluar - masuk < 2
         bayar = 5000
-
     print ("Biaya Parkir : Rp ", bayar)
 tarifParkir()
